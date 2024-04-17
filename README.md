@@ -7,7 +7,7 @@ Custom designed tool-free hotswap PCB and Case to make a 68 key keyboard.
 
 <br>
 
-This custom keyboard PCB was originally made as a surprise for a friend who enjoys keyboards, and turned out well enough that I thought I'd post it back open-source to the community, which is where I also learned from. Specifically, Masterzen and his [keyboard design tutorial](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/) went a long way in bridging my knowledge gaps and bringing this project to life.
+This custom keyboard PCB was originally made as a surprise for a friend who enjoys keyboards and turned out well enough that I thought I'd post it back open-source to the community, which is where I also learned from. Specifically, Masterzen and his [keyboard design tutorial](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/) went a long way in bridging my knowledge gaps and bringing this project to life.
 
 <br>
 
@@ -71,11 +71,11 @@ While I soldered the PCBs and worked on the CNC process for the wooden case, my 
 
 ### Wooden CNC Case
 
-The cases were designed to be cut from two separate pieces of wood stock to make two main parts: a plate and a base. The PCB was designed before the case, leaving the corners cut out in a round shape to aid in future design. This cornerspace could be used for screwholes, or as in the actual case, alignment posts connected to the plate. The final case design uses these alignment posts on the backside of the plate to hold the PCB in place laterally as well as holding the plate aligned into the base of the case. Between the alignment posts and the tension of the connection to the switches through the hot-swap connectors, the PCB is held firmly in place without screws, appearing to float on the back of the plate. The plate also rests into slots cut into the base to marry the plate, base, and PCB together without screws. This allows the keyboard to be used normally without anything shifting around due to typing, and also allows easy removal of the plate by lifting upward, exposing the inside of the case. Since the PCB is hot-swap designed, and all pieces friction fit together, this allows full assembly and dissably without any screws (besides the key stabilizers). However, to add LEDs, they must be soldered in as the backlight design was experimental in nature. 
+The cases were designed to be cut from two separate pieces of wood stock to make two main parts: a plate and a base. The PCB was designed before the case, leaving the corners cut out in a round shape to aid in future design. This corner space could be used for screw holes, or as in the actual case, alignment posts connected to the plate. The final case design uses these alignment posts on the backside of the plate to hold the PCB in place laterally as well as holding the plate aligned into the base of the case. Between the alignment posts and the tension of the connection to the switches through the hot-swap connectors, the PCB is held firmly in place without screws, appearing to float on the back of the plate. The plate also rests into slots cut into the base to marry the plate, base, and PCB together without screws. This allows the keyboard to be used normally without anything shifting around due to typing, and also allows easy removal of the plate by lifting upward, exposing the inside of the case. Since the PCB is hot-swap designed, and all pieces friction fit together, this allows full assembly and disassembly without any screws (besides the key stabilizers). However, to add LEDs, they must be soldered in as the backlight design was experimental in nature. 
 
 <br>
 
-The design of the case required machining both the top and bottom of a blank into a plate or base. A custom technique was developed using alignment pegs at known locations inserted through the piece of stock and into the bed of the CNC machine, allowing dual-side cutting to sub-mm alignment tolerances. This allowed cutting and then flipping a workpiece to machine both sides of each part accurately. 
+The design of the case required machining both the top and bottom of a blank into a plate or base. A custom technique was developed using alignment pegs at known locations inserted through the piece of stock and into the bed of the CNC machine, allowing dual-sided cutting to sub-mm alignment tolerances. This allowed cutting and then flipping a workpiece to machine both sides of each part accurately. 
 
 <br>
 
@@ -104,7 +104,7 @@ A lightweight prototype pine case and detachable foot in a machined frame, used 
 
 <br>
 
-After carving out the inside of the case, it's flat surface was layered in painter's tape. The artwork was then CNC engraved through the tape and into the case, leaving a tape mask to paint over. Depending on the specifics of the tape and CNC programming used, there was a varying amount of cleanup work that needed done to the mask by hand after finishing the CNC carve. The mask was then sprayed with paint and removed, leaving only the engravings painted. A protective polyurethane coating was then applied. The lettering on the backside of the plates was done with the same technique.
+After carving out the inside of the case, the flat surface was layered in painter's tape. The artwork was then CNC engraved through the tape and into the case, leaving a tape mask to paint over. Depending on the specifics of the tape and CNC programming used, there was a varying amount of cleanup work needing to be done to the mask by hand after finishing the CNC carve. The mask was then sprayed with paint and removed, leaving only the engravings painted. A protective polyurethane coating was then applied. The lettering on the backside of the plates was done with the same technique.
 
 <img src="./media/prototype_mask.jpg" width="500">
 <img src="./media/engraved_gaben.jpg" width="500">
