@@ -21,7 +21,7 @@ Currently this repo is a buildlog and is being actively updated. It will also in
 
 <br>
 
-I was already familiar in designing with and programming the ATmega32U4 used as the keyboard's brain, and after learning about how to make keyboards using online resources I designed the PCB in KiCad to be compatible with existing QMK firmware using a 68-key layout. 
+I was already familiar in designing with and programming the ATmega32U4 used as the keyboard's brain, and after learning about how to make keyboards using online resources I designed the PCB in KiCad to be compatible with existing QMK firmware using a 68-key layout. The [source code](https://github.com/qmk/qmk_firmware/tree/master/keyboards/sandwich/keeb68) for this keyboard has been merged into QMK's repository, and may be found in the [QMK Configurator](https://config.qmk.fm/#/sandwich/keeb68/LAYOUT_65_ansi) downloading compiled source, testing the keyboard functionality, defining macros, and changing the layout.
 
 <img src="./media/kicad_render_1.jpg" width="500">
 <img src="./media/kicad_render_2.jpg" width="500">
